@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Appsinvo@d1b",
+    "database": "familyhives",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Appsinvo@d1b",
+    "database": "familyhives",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Appsinvo@d1b",
+    "database": "familyhives",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

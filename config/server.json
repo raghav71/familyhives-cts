@@ -1,0 +1,9 @@
+{
+    "jwtSecret": "FamilyHives@123",
+    "baseUrl": "http://localhost:4040",
+    "port":4044,
+    "fcmServerkey":"AAAA6ze8I34:APA91bFRfAV7dDaz2I1daDrEio9FljzXHtV8ViR1_ThQwrV8SI_V7x8mYvC2AZoXO9FSom8g4ltyA7Mv3LVds1tuDqYWTn0y7cksb81MUUG2GvnESWczxqXiUbclBBvn2lZD5vKtinlR",
+    "sendgridApiKey":"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",
+    "sendgridSender":"uttam.kumar@appsinvo.com"
+
+}
